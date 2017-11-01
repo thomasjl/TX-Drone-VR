@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MyServerListener.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MyServerListener.cs" Line="53" Column="29" />
+      <File FileName="Assets\Scripts\DisplayText.cs" Line="74" Column="13" />
+      <File FileName="Assets\Scripts\NetworkSocket.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tcp.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
