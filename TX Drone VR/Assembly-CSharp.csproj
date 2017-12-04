@@ -46,10 +46,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\DisplayText.cs" />
-     <Compile Include="Assets\Scripts\MyServerListener.cs" />
+     <Compile Include="Assets\Scripts\Connexions\DisplayText.cs" />
+     <Compile Include="Assets\Scripts\Connexions\MyServerListener.cs" />
+     <Compile Include="Assets\Scripts\Inputs\DetectUnknownControllerMappings.cs" />
+     <Compile Include="Assets\Scripts\Inputs\InputController.cs" />
+     <Compile Include="Assets\Scripts\Inputs\InputToBinary.cs" />
+     <Compile Include="Assets\Scripts\Inputs\SendMessages.cs" />
      <Compile Include="Assets\Scripts\Not used\NetworkSocket.cs" />
      <Compile Include="Assets\Scripts\Not used\Tcp.cs" />
+     <Compile Include="Assets\Scripts\VRPN\VRPN.cs" />
+     <Compile Include="Assets\Scripts\VRPN\VrpnManager.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

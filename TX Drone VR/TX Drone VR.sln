@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TX Drone VR", "Assembly-CSharp.csproj", "{EDB90418-F3BC-2E20-4F8E-B2E7B1146D8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TX Drone VR", "Assembly-CSharp-Editor.csproj", "{96BD1B35-A340-9BC3-7EBC-229F51739002}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{EDB90418-F3BC-2E20-4F8E-B2E7B1146D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDB90418-F3BC-2E20-4F8E-B2E7B1146D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDB90418-F3BC-2E20-4F8E-B2E7B1146D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96BD1B35-A340-9BC3-7EBC-229F51739002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BD1B35-A340-9BC3-7EBC-229F51739002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BD1B35-A340-9BC3-7EBC-229F51739002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BD1B35-A340-9BC3-7EBC-229F51739002}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

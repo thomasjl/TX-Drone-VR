@@ -57,7 +57,7 @@ public class MiniDroneActivity extends AppCompatActivity {
 
 
         //create client socket
-        mSocketClient = new SocketClient("192.168.1.20", 52432, mMiniDrone);//run in background
+        mSocketClient = new SocketClient("172.20.10.3", 52432, mMiniDrone);//run in background
         mSocketClient.execute();
 
 
